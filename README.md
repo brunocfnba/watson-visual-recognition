@@ -1,4 +1,4 @@
-# watson-visual-recognition
+# Watson Visual Recognition
 This is a simple nodeJS app used to handle the Watson VR Service.
 I might add some more details here in the future.
 
